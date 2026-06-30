@@ -1,6 +1,9 @@
 # NetFlix Homepage Project
     A modern Netflix-inspired homepage built with HTML5 and CSS3 to practice front-end web development.
 
+# Live Demo
+     https://jpgit-hub123.github.io/Netflix_Homepage_Project/
+
 📌 Project Overview 
     This project is a Netflix-inspired homepage built using HTML5 and CSS3. 
     The purpose of this project was to improve my front-end web development skills by recreating a modern streaming platform interface.
